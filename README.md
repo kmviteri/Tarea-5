@@ -20,3 +20,7 @@
 ## CAPITULO 10
 
 ![image](https://user-images.githubusercontent.com/117187676/209257522-b2f84233-69eb-4d4e-8bc7-c26cc211fd2a.png)
+
+# 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
+* CAPITULO 9
+
