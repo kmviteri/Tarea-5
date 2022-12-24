@@ -24,3 +24,30 @@
 # 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 * CAPITULO 9
 
+![ejercicios_page-0001](https://user-images.githubusercontent.com/117187676/209418086-cb670cbe-abae-4ec9-a803-baa72aa0d745.jpg)
+
+![ejercicios_page-0002](https://user-images.githubusercontent.com/117187676/209418092-7ffae1be-2ad1-491e-9747-e4cfa4aeaef0.jpg)
+
+![ejercicios_page-0003](https://user-images.githubusercontent.com/117187676/209418097-7aa1bb0e-5336-4de6-8716-f6c6371ef68e.jpg)
+
+![ejercicios_page-0004](https://user-images.githubusercontent.com/117187676/209418100-6d71c336-2922-440e-b603-c0b55b70ae7a.jpg)
+
+![ejercicios_page-0005](https://user-images.githubusercontent.com/117187676/209418108-18416c0e-bb9e-48fc-9e76-7f3aeada5dcd.jpg)
+
+![ejercicios_page-0006](https://user-images.githubusercontent.com/117187676/209418118-1ad4ab20-2882-47fb-b041-e7561720f67a.jpg)
+
+![ejercicios_page-0007](https://user-images.githubusercontent.com/117187676/209418137-dbb568e4-0ed7-438b-b670-b4aee76be925.jpg)
+
+![ejercicios_page-0008](https://user-images.githubusercontent.com/117187676/209418147-8c766a22-2deb-4de6-b681-c088bd75b9ec.jpg)
+
+![ejercicios_page-0009](https://user-images.githubusercontent.com/117187676/209418155-58283203-1bd5-4014-8dcb-ffce0e89a62a.jpg)
+
+* CAPITULO 10
+
+![image](https://user-images.githubusercontent.com/117187676/209418201-f3d7d311-325b-48fc-aa74-358d05e973e0.png)
+
+![image](https://user-images.githubusercontent.com/117187676/209418206-9d4078fd-bb67-494f-bc4d-eaf7ecad1879.png)
+
+![image](https://user-images.githubusercontent.com/117187676/209418224-fc868ef4-1e95-43ce-8587-36e3ea8cb25f.png)
+
+
