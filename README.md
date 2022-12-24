@@ -50,5 +50,20 @@
 
 ![image](https://user-images.githubusercontent.com/117187676/209418224-fc868ef4-1e95-43ce-8587-36e3ea8cb25f.png)
 
+# 4.VIDEO
+
+https://youtu.be/3RymQFzrrzY
+
+# 5. CONCLUCIONES
+* Conclusiones: • Aprendimos a calcular la resistencia total de un circuito en un circuito serie-paralelo mediante el anasis de estos.
+• Vimos que en un circuito en serie-paralelo se aplican las mismas leyes que un circuito en paralelo o en un circuito en serie y poco a poco podemos irlo reduciendo.
+
+• Aprendimos a calcular los efectos de carga tanto en un voltímetro como en un amperímetro y vimos los efectos que estos causan en una red.
+
+• Al convertir fuentes de voltaje y corriente observamos que, aunque las fuentes son equivalentes, las corrientes y voltajes en ellas no pueden ser los mismo.
+
+# 6. Bibliografia
+
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
 
 
